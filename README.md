@@ -26,6 +26,7 @@ High level concepts:
 > code that manipulates it, together into logical units called objects.
 > 
 >       (Object = Data + Code)
+
 &nbsp;
 
 Primitives and Objects  
