@@ -41,3 +41,8 @@ Primitives and Objects
         - Can invoke methods, access fields with dot
         - Can be null
         - == checks if arrows point at some object
+
+
+Quiz 4: Classes, Types, and For Each Loops  
+    
+    - Only variabled declared outside the methods are instance variables
