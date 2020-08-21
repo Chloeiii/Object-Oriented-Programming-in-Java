@@ -28,3 +28,16 @@ High level concepts:
 > 
 >       (Object = Data + Code)
 
+
+Primitives and Objects  
+    
+    - Primitives: int, double, char, boolean, float, long, byte, short
+        - value is directly in box
+        - Can't invoke methods on them
+        - Can't be null (but can use wrapper class)
+    
+    - Objects: String, Point, Shape, any class you write yourself
+        - Reference to object
+        - Can invoke methods, access fields with dot
+        - Can be null
+        - == checks if arrows point at some object
