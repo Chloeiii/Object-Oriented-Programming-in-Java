@@ -6,8 +6,8 @@ https://www.dukelearntoprogram.com//course2/index.php
 
 ---- 
 ### Week 1:   
-Quiz 1: Getting Started with BlueJ  
-    
+Quiz 1: Getting Started with BlueJ   
+
     - what you need to do in order to run the program?  
       1. compile the program 2. create a new object for the class 3. call the method  
     
@@ -16,10 +16,9 @@ Quiz 1: Getting Started with BlueJ
     
     - What is BlueJ
       A programming environment
-
+&nbsp;
 
 High level concepts:
-    
 
 > - Data: store the values you are computing on
 >  - Code: when it manipulates that data according to the algorithm you have designed.
@@ -27,7 +26,7 @@ High level concepts:
 > code that manipulates it, together into logical units called objects.
 > 
 >       (Object = Data + Code)
-
+&nbsp;
 
 Primitives and Objects  
     
@@ -41,8 +40,20 @@ Primitives and Objects
         - Can invoke methods, access fields with dot
         - Can be null
         - == checks if arrows point at some object
-
+&nbsp;
 
 Quiz 4: Classes, Types, and For Each Loops  
     
     - Only variabled declared outside the methods are instance variables
+&nbsp;
+
+:facepunch: Solving Programming: A Seven Step Approach
+
+> - Work Example By Hand
+> - Write Down What You Did
+> - Find Patterns
+> - Check By Hand
+> - Translate To Code
+> - Run Test Cases
+> - Debug Failed Test Cases
+&nbsp;
