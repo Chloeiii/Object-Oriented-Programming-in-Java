@@ -58,3 +58,6 @@ Quiz 4: Classes, Types, and For Each Loops
 > - Run Test Cases
 > - Debug Failed Test Cases
 &nbsp;
+
+---- 
+### Week 2:  
