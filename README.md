@@ -64,4 +64,4 @@ Quiz 4: Classes, Types, and For Each Loops
 Some Useful Built-In Methods for String
     
 
-<img src="./String.png" alt="string" width="500"/>
+<img src="./String.png" alt="string" width="500"/> 
