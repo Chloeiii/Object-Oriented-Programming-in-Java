@@ -65,3 +65,6 @@ Some Useful Built-In Methods for String
     
 
 <img src="./String.png" alt="string" width="500"/> 
+
+---- 
+### Week 3:  
