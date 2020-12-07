@@ -3,6 +3,8 @@
 course resources:  
 https://www.dukelearntoprogram.com//course2/index.php
 
+    import edu.duke.*;
+
 
 ---- 
 ### Week 1:   
