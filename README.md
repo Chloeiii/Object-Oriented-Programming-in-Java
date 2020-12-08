@@ -75,3 +75,9 @@ Apache Commons CSV
 	import org.apache.commons.csv.*;
 
 
+Java for Nothing - NULL
+
+	Primitive Types: CANNOT be NULL
+		int, double, char, boolean, byte, short, long, float
+
+	Object Type: CAN be NULL
