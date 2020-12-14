@@ -84,6 +84,8 @@ Java for Nothing - NULL
 
 Directory and Files
 
+	import java.io.File;
+
 	DirectoryResource dr = new DirectoryResource();
 	for (File f : dr.selectedFiles()){
 		FileResource fr = new FileResource(f);
