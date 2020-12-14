@@ -81,3 +81,10 @@ Java for Nothing - NULL
 		int, double, char, boolean, byte, short, long, float
 
 	Object Type: CAN be NULL
+
+Directory and Files
+
+	DirectoryResource dr = new DirectoryResource();
+	for (File f : dr.selectedFiles()){
+		FileResource fr = new FileResource(f);
+	}
