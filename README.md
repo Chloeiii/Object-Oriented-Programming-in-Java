@@ -90,3 +90,10 @@ Directory and Files
 	for (File f : dr.selectedFiles()){
 		FileResource fr = new FileResource(f);
 	}
+
+---- 
+### Week 4:  
+
+	FileResource fr = new FileResource();
+	for(CSVRecord rec : fr.getCSVParser(false)){}
+	// false means there's no head row in the CSV file
